@@ -1,0 +1,11 @@
+c++ 17の利用
+Ctrl+Shift+P から C/C++ 構成の編集 - Edit Configuration(JSON)で
+https://suzukalight.com/blog/posts/2021-01-14-cpp-vscode-wsl2
+
+gcd,lcmライブラリから削除
+他便利機能
+https://qiita.com/Reputeless/items/db7dda0096f3ae91d450
+
+環境構築全般
+シェルスクリプト 環境変数など
+https://kmyk.github.io/blog/blog/2020/11/11/modern-environments-for-competitive-programming/
